@@ -1,0 +1,6 @@
+ID;supplierNumber;name;contactPerson;email;phone;street;city;postalCode;country_code;paymentTerms;rating;isActive
+d2b0e1c0-0001-4000-8000-000000000001;SUP-001;TechDistri GmbH;Thomas Müller;t.mueller@techdistri.de;+49 89 12345-100;Industriestraße 42;München;80939;DE;30;5;true
+d2b0e1c0-0002-4000-8000-000000000001;SUP-002;Office Solutions AG;Sandra Weber;s.weber@officesolutions.de;+49 40 98765-200;Handelsweg 15;Hamburg;20457;DE;45;4;true
+d2b0e1c0-0003-4000-8000-000000000001;SUP-003;Global IT Supply Ltd;John Smith;j.smith@globalit.co.uk;+44 20 7946 0958;Commerce Road 88;London;EC1A 1BB;GB;30;4;true
+d2b0e1c0-0004-4000-8000-000000000001;SUP-004;Büro Express KG;Michael Braun;m.braun@bueroexpress.de;+49 30 55667-300;Berliner Allee 99;Berlin;10115;DE;14;3;true
+d2b0e1c0-0005-4000-8000-000000000001;SUP-005;Software Direct BV;Anna de Jong;a.dejong@swdirect.nl;+31 20 123 4567;Keizersgracht 521;Amsterdam;1017 DR;NL;30;5;true

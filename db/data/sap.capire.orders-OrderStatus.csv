@@ -1,0 +1,9 @@
+code;name;descr;criticality
+NEW;Neu;Neue Bestellung, noch nicht bestätigt;0
+CONFIRMED;Bestätigt;Bestellung wurde bestätigt;0
+IN_PROCESS;In Bearbeitung;Bestellung wird bearbeitet;2
+SHIPPED;Versandt;Ware wurde versandt;2
+DELIVERED;Geliefert;Ware wurde zugestellt;1
+COMPLETED;Abgeschlossen;Bestellung vollständig abgeschlossen;1
+CANCELLED;Storniert;Bestellung wurde storniert;3
+ON_HOLD;Zurückgestellt;Bestellung pausiert;2

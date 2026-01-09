@@ -1,0 +1,11 @@
+ID;customerNumber;companyName;firstName;lastName;email;phone;customerType_code;status_code;creditLimit;paymentTerms;taxNumber
+a1b0c1d0-0001-4000-8000-000000000001;KD-10001;Müller & Partner GmbH;Stefan;Müller;s.mueller@muellerpartner.de;+49 89 123456-0;B2B;ACTIVE;50000.00;30;DE123456789
+a1b0c1d0-0002-4000-8000-000000000001;KD-10002;Schmidt Consulting AG;Petra;Schmidt;p.schmidt@schmidt-consulting.de;+49 40 987654-0;KEY;ACTIVE;150000.00;45;DE987654321
+a1b0c1d0-0003-4000-8000-000000000001;KD-10003;Weber Elektronik GmbH;Hans;Weber;h.weber@weber-elektronik.de;+49 30 456789-0;B2B;ACTIVE;75000.00;30;DE456789123
+a1b0c1d0-0004-4000-8000-000000000001;KD-10004;;Thomas;Fischer;t.fischer@gmail.com;+49 171 1234567;B2C;ACTIVE;5000.00;14;
+a1b0c1d0-0005-4000-8000-000000000001;KD-10005;Hofmann IT Solutions;Klaus;Hofmann;k.hofmann@hofmann-it.de;+49 69 112233-0;B2B;ACTIVE;80000.00;30;DE789123456
+a1b0c1d0-0006-4000-8000-000000000001;KD-10006;Bauer & Söhne KG;Martin;Bauer;m.bauer@bauer-soehne.de;+49 711 998877-0;B2B;BLOCKED;25000.00;30;DE321654987
+a1b0c1d0-0007-4000-8000-000000000001;KD-10007;Schneider Distribution GmbH;Andrea;Schneider;a.schneider@schneider-dist.de;+49 221 556644-0;PARTNER;ACTIVE;200000.00;60;DE654987321
+a1b0c1d0-0008-4000-8000-000000000001;KD-10008;;Julia;Wagner;j.wagner@outlook.de;+49 172 9876543;B2C;ACTIVE;3000.00;14;
+a1b0c1d0-0009-4000-8000-000000000001;KD-10009;Meyer Gruppe AG;Frank;Meyer;f.meyer@meyer-gruppe.de;+49 511 334455-0;KEY;ACTIVE;500000.00;60;DE147258369
+a1b0c1d0-0010-4000-8000-000000000001;KD-10010;Koch Systems GmbH;Sabine;Koch;s.koch@koch-systems.de;+49 351 223344-0;B2B;PENDING;40000.00;30;DE963852741

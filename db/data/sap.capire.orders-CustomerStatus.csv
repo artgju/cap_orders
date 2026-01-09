@@ -1,0 +1,5 @@
+code;name;descr;criticality
+ACTIVE;Aktiv;Kunde ist aktiv und kann bestellen;1
+INACTIVE;Inaktiv;Kunde ist inaktiv;0
+BLOCKED;Gesperrt;Kunde ist gesperrt;3
+PENDING;Prüfung;Kundendaten werden geprüft;2

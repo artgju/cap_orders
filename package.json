@@ -1,7 +1,7 @@
 {
   "name": "Cap-Orders",
   "version": "1.0.0",
-  "description": "A simple CAP project.",
+  "description": "Order Management System - SAP CAP Demo",
   "dependencies": {
     "@cap-js/hana": "^2",
     "@sap/cds": "^9",
@@ -9,16 +9,31 @@
     "express": "^4"
   },
   "devDependencies": {
-    "@cap-js/sqlite": "^2"
+    "@cap-js/cds-test": "^0.4.1",
+    "@cap-js/sqlite": "^2",
+    "jest": "^29"
   },
   "scripts": {
-    "start": "cds-serve"
+    "start": "cds-serve",
+    "watch": "cds watch",
+    "test": "jest --runInBand --forceExit",
+    "test:coverage": "jest --runInBand --forceExit --coverage",
+    "build": "cds build --production",
+    "build:mta": "mbt build"
   },
   "private": true,
   "cds": {
     "requires": {
       "[production]": {
         "auth": "xsuaa"
+      },
+      "db-ext": {
+        "[development]": {
+          "model": "db/sqlite"
+        },
+        "[production]": {
+          "model": "db/hana"
+        }
       }
     }
   }

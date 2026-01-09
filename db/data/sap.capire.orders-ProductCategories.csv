@@ -1,0 +1,11 @@
+ID;name;descr;parent_ID
+c1a0e1b0-0001-4000-8000-000000000001;Elektronik;Elektronische Geräte und Komponenten;
+c1a0e1b0-0002-4000-8000-000000000001;Computer & Zubehör;Desktop, Laptop und Peripherie;c1a0e1b0-0001-4000-8000-000000000001
+c1a0e1b0-0003-4000-8000-000000000001;Smartphones & Tablets;Mobile Geräte;c1a0e1b0-0001-4000-8000-000000000001
+c1a0e1b0-0004-4000-8000-000000000001;Bürobedarf;Büromaterial und Ausstattung;
+c1a0e1b0-0005-4000-8000-000000000001;Schreibwaren;Stifte, Papier, Ordner;c1a0e1b0-0004-4000-8000-000000000001
+c1a0e1b0-0006-4000-8000-000000000001;Büromöbel;Tische, Stühle, Schränke;c1a0e1b0-0004-4000-8000-000000000001
+c1a0e1b0-0007-4000-8000-000000000001;Software & Lizenzen;Softwareprodukte und Lizenzen;
+c1a0e1b0-0008-4000-8000-000000000001;Betriebssysteme;OS Lizenzen;c1a0e1b0-0007-4000-8000-000000000001
+c1a0e1b0-0009-4000-8000-000000000001;Office Software;Büroanwendungen;c1a0e1b0-0007-4000-8000-000000000001
+c1a0e1b0-0010-4000-8000-000000000001;Dienstleistungen;Services und Support;
