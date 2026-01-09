@@ -3,6 +3,10 @@
     {
       "name": "$XSAPPNAME.admin",
       "description": "admin"
+    },
+    {
+      "name": "$XSAPPNAME.viewer",
+      "description": "viewer"
     }
   ],
   "attributes": [],

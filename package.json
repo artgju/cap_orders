@@ -11,6 +11,7 @@
   "devDependencies": {
     "@cap-js/cds-test": "^0.4.1",
     "@cap-js/sqlite": "^2",
+    "@sap/cds-dk": "^9",
     "jest": "^29"
   },
   "scripts": {
