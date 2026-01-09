@@ -14,13 +14,14 @@
     "@sap/cds-dk": "^9",
     "jest": "^29"
   },
-  "scripts": {
+   "scripts": {
     "start": "cds-serve",
     "watch": "cds watch",
-    "test": "jest --runInBand --forceExit",
-    "test:coverage": "jest --runInBand --forceExit --coverage",
+    "test": "cds bind --exec jest --silent",
     "build": "cds build --production",
-    "build:mta": "mbt build"
+    "build:mta": "mbt build",
+    "deploy": "cf deploy mta_archives/*.mtar",
+    "undeploy": "cf undeploy cap-orders --delete-services --delete-service-keys"
   },
   "private": true,
   "cds": {
